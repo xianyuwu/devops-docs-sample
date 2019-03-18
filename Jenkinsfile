@@ -12,7 +12,7 @@ pipeline {
     GITHUB_CREDENTIAL_ID = 'github-id'
     KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
     DOCKERHUB_NAMESPACE = 'kubesphere'
-    GTIHUB_ACCOUNT = 'kubesphere'
+    GTIHUB_ACCOUNT = 'xianyuwu'
     APP_NAME = 'devops-docs-sample'
   }
   stages {
